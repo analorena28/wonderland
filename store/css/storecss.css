@@ -1,0 +1,51 @@
+
+.imagenprincipal{
+position:relative;
+bottom: 250px;
+}
+
+h1{
+position:relative;
+bottom:900px;
+left:430px;
+font-family: 'Cinzel Decorative', cursive;
+color:goldenrod;
+font-size: 150px;
+}
+.p1{
+position: relative;
+bottom:600px;
+font-family: 'Cinzel Decorative', cursive;
+color:goldenrod;
+font-size: 30px;
+text-align: center;
+}
+p{
+font-family:'Cinzel Decorative', cursive;
+color:goldenrod;
+font-size: 20px;
+font-weight: bold;
+}
+.galeria1{
+display: flex;
+justify-content: space-around;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.container{
+position:relative;
+bottom:550px;
+padding-left:30px;
+padding-right:30px;
+}
+.footer{
+display: flex;
+justify-content: space-around;
+text-align:center;
+position: relative;
+bottom: 505px;
+border: solid 2px gray;
+background-color: lightcyan;
+padding:30px;}
+

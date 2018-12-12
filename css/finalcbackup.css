@@ -1,0 +1,109 @@
+.div1{
+display: flex;
+justify-content: space-between;
+position:relative;
+padding-top: 150px;
+padding-bottom: 80px;
+padding-right: 200px;
+}
+
+.h1{
+position: absolute;
+bottom: 1180px;
+padding-left: 10px;
+font-size:40px;
+color:goldenrod;
+font-family: 'Cinzel Decorative', cursive;
+}
+.h2e{
+position:relative;
+bottom: 70px;
+left:260px;
+font-family: 'Cinzel Decorative', cursive;
+font-size: 40px;
+}
+.h2c{
+position:relative;
+bottom: 70px;
+left:320px;
+font-family: 'Cinzel Decorative', cursive;
+font-size:40px;
+}
+.about{
+position: relative;
+top:80px;
+left:300px;
+font-size:30px;
+font-family: 'Cinzel Decorative', cursive;
+}
+.paraf1{
+position:relative;
+bottom: 610px;
+border-width: 3px;
+border-style:solid;
+border-color:white;
+padding: 20px;
+margin-left:90px;
+margin-right:600px;
+line-height: 25px;
+text-align: justify;
+font-size: 20px;
+font-family: 'Cinzel Decorative', cursive;
+}
+.parf2{
+position: relative;
+bottom: 450px;
+left:500px;
+font-size:30px; 
+font-family: 'Cinzel Decorative', cursive;
+}
+.mapa{
+position: relative;
+padding-left: 50px;
+padding-right: 50px;
+bottom:400px;
+width: 1180px;
+height: 500px;
+
+}
+.imag1{
+padding-top: 80px;
+padding-left: 0px;
+padding-right: 0px;
+}
+.main3{
+position: relative;
+bottom: 400px;
+left:850px;
+border-style: solid;
+border-width: 3px;
+border-color:white;
+}
+.costimag{
+position: relative;
+left:40px;
+border-radius: 100%;
+}
+.eventimag{
+border-radius:100%
+}
+
+#mainnav{
+float:left;
+position: absolute;
+top:20px;
+left:550px;
+}
+
+#mainnav li{
+float:left;
+margin-right: 50px;
+list-style: none;
+}
+
+#mainnav li a{
+color:goldenrod;
+text-decoration: none;
+font-size: 30px;
+font-family: 'Cinzel Decorative', cursive;
+}

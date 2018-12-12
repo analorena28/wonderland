@@ -1,0 +1,121 @@
+.flex{
+display: flex;
+justify-content: space-around;
+text-align: center;
+padding-top: 50px;
+}
+
+.banner {
+width: 100%;
+}
+.banner1{
+padding-left: 10px;
+}
+body{
+background-color:#eff3f5
+}
+h1{
+font-size:40px;
+line-height: 80px;
+color:goldenrod;
+font-family: 'Cinzel Decorative', cursive;
+float: left;
+margin-left: 30px;
+}
+.h2e{
+
+font-family: 'Cinzel Decorative', cursive;
+font-size: 40px;
+}
+.h2c{
+
+font-family: 'Cinzel Decorative', cursive;
+font-size:40px;
+}
+.about{
+position: relative;
+top:80px;
+margin-left: 82px;
+font-size:30px;
+font-family: 'Cinzel Decorative', cursive;
+}
+.paraf1{
+position:relative;
+bottom: 650px;
+border: 3px solid gray;
+padding: 20px;
+margin-left:90px;
+margin-right:600px;
+line-height: 25px;
+text-align: justify;
+font-size: 20px;
+font-family: 'Cinzel Decorative', cursive;
+}
+.parf2{
+position: relative;
+bottom:500px;
+font-size:30px; 
+font-family: 'Cinzel Decorative', cursive;
+margin-left: 500px;
+padding-bottom: 30px;
+text-decoration-style: solid;
+}
+.mapa{
+position:relative;
+bottom:500px;
+width: 1180px;
+height: 500px;
+margin-left: 50px;
+
+}
+.imag1{
+padding-top: 80px;
+padding-left: 0px;
+padding-right: 0px;
+}
+.main3{
+position:relative;
+bottom:400px;
+left:850px;
+border: solid 3px gray;
+
+}
+.costimag, .eventimag {
+
+border-radius: 0;
+    width: 300px;
+    height:300px;
+border: solid 2px gray;
+}
+
+
+#mainnav{
+float:right;
+
+}
+
+#mainnav li{
+float:left;
+margin-right: 50px;
+list-style: none;
+}
+
+#mainnav li a{
+color:goldenrod;
+text-decoration: none;
+font-size: 30px;
+    line-height: 80px;
+font-family: 'Cinzel Decorative', cursive;
+}
+.footer{
+display: flex;
+justify-content: space-around;
+text-align: center;
+position: relative;
+bottom: 505px;
+border: solid 2px gray;
+background-color: lightcyan;
+padding:30px;
+
+
+}
